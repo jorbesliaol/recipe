@@ -1,7 +1,8 @@
-### This is a LOCAL change :)
-# recipe
-ds-toolbox-ubc
+This is a Local change :)
+recipe
+line 2 changed remotely ds-toolbox-ubc
 
+Trying part iii of the assignment, for git pull.
+last line changed locally
 
-## Trying part iii of the assignment, for git pull.
-### This is a LOCAL change :)
+This is a Local change :)
