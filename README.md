@@ -17,3 +17,5 @@ This is a REMOTE change :o
 1. Mix all ingredients together.  
 2. Bake at 350°F for 20 minutes.  
 3. Let it cool and serve.  
+This is a **delicious** recipe that you _must_ try!  
+![Recipe Image](recipe.png)
